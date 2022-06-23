@@ -1,0 +1,2 @@
+# SekoChat
+ Android chat application

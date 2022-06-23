@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "289299228544",
+    "project_id": "sekochat-e745c",
+    "storage_bucket": "sekochat-e745c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289299228544:android:49ecab8bb4b1eb22c14365",
+        "android_client_info": {
+          "package_name": "com.example.sekochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289299228544-mivj993kfobi9uerfg8v9nq9qrc6u71g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sekochat",
+            "certificate_hash": "9f9d472b0691956f2e3d8bcbe4960cdfe188fb1a"
+          }
+        },
+        {
+          "client_id": "289299228544-htlvmunj45b481vr5dulo2p11qeq32r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdP3T5HtILtWX_aFKq3aTc0GNhHRqJzaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289299228544-htlvmunj45b481vr5dulo2p11qeq32r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
